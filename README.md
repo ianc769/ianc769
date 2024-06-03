@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ianc769
-- 👀 I’m interested in Terraform, GCP, Automation, Puppet and other neat tools!
+- 👀 I’m interested in Terraform, Cloud, Automation, Puppet and other neat tools!
 - 🌱 I’m currently learning Terraform and GCP
 - 💞️ I’m looking to collaborate on Automation manual processes
 - 📫 How to reach me ian.crouch@telus.com or on slack!
